@@ -1,3 +1,3 @@
 # fit3048-website
 
-two branches are the same
+This is a 3 people group work to build a complete website.
